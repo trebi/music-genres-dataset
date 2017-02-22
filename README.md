@@ -13,6 +13,7 @@
 
 This dataset is basically list of genres and songs available at [EveryNoise](http://everynoise.com/everynoise1d.cgi?scope=all) extended with data from [Spotify](https://developer.spotify.com/web-api/) and [Last.FM](http://www.last.fm/api). 
 
+[[ DOWNLOAD DATASET AS ZIP ]](./data.zip)
 
 ## Scraping scripts
 
